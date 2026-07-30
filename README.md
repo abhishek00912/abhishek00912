@@ -1,117 +1,125 @@
+
 <div align="center">
+# Hi I am Abhishek
 
-# 👋 Hi, I'm Abhishek 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:1F6FEB,100:58A6FF&height=220&section=header&text=Abhishek%20Kumar%20Yadav&fontColor=ffffff&fontSize=45&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Software+Developer;Competitive+Programmer;Building+Cool+Things;Always+Learning"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=C%2B%2B+Developer;Competitive+Programmer;Full+Stack+Learner;Open+Source+Enthusiast;Always+Building+Something+New"/>
 
 </div>
 
 ---
 
+# 💫 About Me
+
 <div align="center">
 
-## 🧑‍💻 Developer Card
-
-| | |
-|:--|:--|
-| 🎓 **Education** | B.Tech CSE (AI & ML) |
+| 👨‍💻 | |
+|:---|:---|
+| 🎓 **Degree** | B.Tech CSE (AI & ML) |
 | 💻 **Languages** | C++, C, Python, JavaScript |
-| 🌱 **Currently Learning** | DSA • GITHUB • FRONTED |
-| 🚀 **Focus** | DSA • Web Development • Open Source |
+| 🌱 **Learning** | React, Node.js, System Design |
 | 🎯 **Goal** | Software Engineer |
+| ❤️ **Interests** | DSA • Web Development • Open Source |
+| 📍 **Location** | India |
 
 </div>
 
 ---
 
-# ⚒️ Tech Stack
+# ⚡ Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,html,css,js,react,nodejs,mysql,mongodb,git,github,vscode,linux&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,html,css,js,react,nodejs,mysql,mongodb,git,github,vscode,linux&perline=7"/>
 
-</p>
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=abhishek00912&show_icons=true&theme=github_dark_dimmed&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek00912&layout=compact&theme=github_dark_dimmed&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
-# 🔥 GitHub Streak
+# 📊 GitHub Dashboard
 
-<p align="center">
+<div align="center">
 
-<img src="https://streak-stats.demolab.com?user=abhishek00912&theme=github-dark-blue&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=abhishek00912&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
-</p>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek00912&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="65%" src="https://streak-stats.demolab.com?user=abhishek00912&theme=github-dark-blue&hide_border=true"/>
+
+</div>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Contribution Activity
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek00912&theme=github-compact&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek00912&theme=github-dark&bg_color=0D1117&hide_border=true&line=58A6FF&point=FFFFFF&area=true"/>
 
-</p>
+</div>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=abhishek00912&theme=onedark&no-frame=true&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=abhishek00912&theme=algolia&no-frame=true&column=4&margin-w=15"/>
 
-</p>
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech |
+|:---|:---|:---|
+| 💰 Salary Prediction | Machine Learning salary prediction app | Python • Scikit-learn |
+| 🌐 Portfolio Website | Personal developer portfolio | React |
+| 📝 DSA Repository | LeetCode & DSA solutions | C++ |
+
+</div>
 
 ---
 
 # 🐍 Contribution Snake
 
-<p align="center">
+<div align="center">
 
 <picture>
 
 <source media="(prefers-color-scheme: dark)"
 srcset="https://raw.githubusercontent.com/abhishek00912/abhishek00912/output/github-contribution-grid-snake-dark.svg">
 
-<img src="https://raw.githubusercontent.com/abhishek00912/abhishek00912/output/github-contribution-grid-snake-dark.svg"/>
+<source media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/abhishek00912/abhishek00912/output/github-contribution-grid-snake.svg">
+
+<img alt="Snake animation" src="https://raw.githubusercontent.com/abhishek00912/abhishek00912/output/github-contribution-grid-snake-dark.svg">
 
 </picture>
 
-</p>
+</div>
 
 ---
 
-# 🚀 Featured Projects
-
-| Project | Tech | Status |
-|---------|------|--------|
-| 💰 Salary Prediction | Python, ML | ✅ |
-| 🌐 Portfolio Website | React | 🚧 |
-| 📝 DSA Solutions | C++ | 🚀 |
-
----
+# 📫 Connect With Me
 
 <div align="center">
 
-### 📫 Connect With Me
-
-<a href="YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:YOUR_EMAIL@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
@@ -125,6 +133,12 @@ srcset="https://raw.githubusercontent.com/abhishek00912/abhishek00912/output/git
 
 <div align="center">
 
-> **"Write code that your future self will thank you for."**
+### 💡 Quote
+
+*"First, solve the problem. Then, write the code."* — John Johnson
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:1F6FEB,100:58A6FF&height=120&section=footer"/>
 
 </div>

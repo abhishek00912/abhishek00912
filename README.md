@@ -1,55 +1,123 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,12,20&text=Abhishek%20Kumar%20Yadav&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+# ⚡ 𝙰𝚋𝚑𝚒𝚜𝚑𝚎𝚔 𝙺𝚞𝚖𝚊𝚛 𝚈𝚊𝚍𝚊𝚟
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Competitive+Programmer;C%2B%2B+Developer;Full+Stack+Web+Developer;AI+%26+ML+Student;Always+Learning+New+Things+🚀"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=28&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=850&lines=Competitive+Programmer;C%2B%2B+Developer;Full+Stack+Learner;AI+%26+ML+Enthusiast;Welcome+to+my+GitHub!" />
 
 <p>
-
-<a href="https://github.com/abhishek00912">
-<img src="https://img.shields.io/github/followers/abhishek00912?label=Followers&style=for-the-badge&color=blue"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=abhishek00912&style=for-the-badge&color=blue"/>
-
+<img src="https://img.shields.io/github/followers/abhishek00912?style=for-the-badge&logo=github&color=00F5FF"/>
+<img src="https://komarev.com/ghpvc/?username=abhishek00912&style=for-the-badge&color=blueviolet"/>
+<img src="https://img.shields.io/github/stars/abhishek00912?affiliations=OWNER&style=for-the-badge&color=ff0080"/>
 </p>
 
 </div>
 
 ---
 
-# 💫 About Me
+# 👨‍💻 About Me
 
-<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+```cpp
+class Abhishek {
+public:
 
-🎓 B.Tech CSE (AI & ML)
+    string Education = "B.Tech CSE (AI & ML)";
+    string Language = "C++";
 
-💻 Passionate about
+    vector<string> Learning = {
+        "Data Structures",
+        "Algorithms",
+        "React",
+        "Node.js",
+        "System Design"
+    };
 
-- Data Structures & Algorithms
-- Competitive Programming
-- Full Stack Development
-- Open Source
+    vector<string> Interests = {
+        "Competitive Programming",
+        "Open Source",
+        "Web Development"
+    };
 
-🌱 Currently Learning
+    string Goal = "Software Engineer @ Product Based Company";
+};
+```
 
-- Advanced DSA
-- React
-- Node.js
-- System Design
+---
 
-🎯 2026 Goals
+# ⚙️ Tech Arsenal
 
-- Crack Product Based Company
-- Solve 1000+ DSA Problems
-- Build Real World Projects
-- Contribute to Open Source
+<p align="center">
 
-⚡ Fun Fact
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java"/>
 
-> Coffee + Music + Coding = ❤️
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs"/>
 
-<br>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode"/>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=abhishek00912&show_icons=true&theme=radical&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek00912&layout=compact&theme=radical&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=abhishek00912&theme=radical&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek00912&theme=react-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=abhishek00912&theme=algolia&no-frame=true&column=4"/>
+
+</p>
+
+---
+
+# 💻 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://codeforces.com/">
+<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+</p>
 
 ---
 
@@ -57,7 +125,7 @@
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="YOUR_LINKEDIN">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
@@ -73,93 +141,21 @@
 
 ---
 
-# 💻 Tech Stack
+# 🐍 Snake Animation
 
-<div align="center">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,java,html,css,js,react,nodejs,mongodb,mysql,git,github,vscode,linux,figma&perline=8"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhishek00912&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek00912&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+</p>
 
 ---
 
-# 🔥 GitHub Streak
+# 💭 Quote
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=abhishek00912&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek00912&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=abhishek00912&theme=tokyonight&no-frame=true&column=4"/>
-
-</div>
-
----
-
-# ⚡ Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://codeforces.com/">
-<img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces"/>
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank"/>
-</a>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhishek00912/abhishek00912/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhishek00912/abhishek00912/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/abhishek00912/abhishek00912/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
----
-
-# 🚀 Quote
-
-<div align="center">
-
-> **"Consistency beats intensity. Code every day."**
+### "Stay Consistent. Stay Curious. Keep Building."
 
 </div>
 
@@ -167,8 +163,8 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6a11cb,100:2575fc&section=footer"/>
 
-### ⭐ Thanks for visiting my profile ⭐
+⭐ Thanks for visiting my profile ⭐
 
 </div>

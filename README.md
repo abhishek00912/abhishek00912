@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:1F6FEB,100:58A6FF&text=Abhishek%20Kumar%20Yadav&fontSize=42&fontColor=FFFFFF&animation=fadeIn"/>
 
-<h2>💻 Software Developer | Competitive Programmer | AI & ML Enthusiast</h2>
+<h2>💻 Software Developer | Competitive Programmer | DSA Enthusiast</h2>
 
 <p>
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=C%2B%2B+Developer;Full+Stack+Learner;Problem+Solver;Always+Learning+New+Things"/>
@@ -35,7 +35,7 @@
 
 🚀 Competitive Programmer
 
-🌱 Full Stack Learner
+🌱 DSA Enthusiast
 
 </td>
 
@@ -47,7 +47,7 @@
 
 💻 **Languages:** C++, C, Python, JavaScript
 
-🌱 **Learning:** React, Node.js, System Design
+🌱 **Learning:** DSA, APPITUDE, System Design
 
 🎯 **Goal:** Software Engineer
 
@@ -71,17 +71,6 @@
 
 ---
 
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=abhishek00912&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek00912&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
----
 
 # 🔥 GitHub Streak
 
@@ -93,15 +82,7 @@
 
 ---
 
-# 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=abhishek00912&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
-</div>
-
----
 
 # 🚀 Featured Projects
 
@@ -120,7 +101,7 @@
 | Statistics | Details |
 |------------|---------|
 | 💻 Languages | C++, C, Python, JavaScript |
-| 🌱 Learning | React, Node.js |
+| 🌱 Learning | DSA , Node.js |
 | 🎯 Goal | Software Engineer |
 | 🚀 Interests | DSA, Full Stack, AI/ML |
 
@@ -136,7 +117,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/abhishek-kumar-yadav-43a63722a/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -144,7 +125,7 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://leetcode.com/YOUR_USERNAME">
+<a href="https://leetcode.com/u/akky_890/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
@@ -175,5 +156,6 @@
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,50:1F6FEB,100:58A6FF"/>
+### ⭐ Thanks for visiting my profile!
 
 </div>

@@ -1,104 +1,111 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=Abhishek%20Kumar%20Yadav&fontSize=45&fontColor=ffffff&animation=twinkling&color=0:0D1117,50:6C63FF,100:00E5FF"/>
+# 👋 Hi, I'm Abhishek 
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=80&lines=Competitive+Programmer;Building+Awesome+Projects+🚀"/>
-
-</div>
-
----
-
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Introduction
-
-<div align="center">
-
-| 👨‍💻 About Me | |
-|:-------------|:------------------------------------------------|
-| 🎓 Education | B.Tech CSE (AI & ML) |
-| 💻 Languages | C++, C, Python, JavaScript |
-| 🌱 Learning | React, Node.js, System Design |
-| 🎯 Goal | Software Engineer |
-| ❤️ Interests | DSA • Competitive Programming • Open Source |
-| ⚡ Motto | *Code • Learn • Repeat* |
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Software+Developer;Competitive+Programmer;Building+Cool+Things;Always+Learning"/>
 
 </div>
 
 ---
 
-# ⚡ Tech Stack
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,java"/>
+## 🧑‍💻 Developer Card
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs"/>
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
+| | |
+|:--|:--|
+| 🎓 **Education** | B.Tech CSE (AI & ML) |
+| 💻 **Languages** | C++, C, Python, JavaScript |
+| 🌱 **Currently Learning** | DSA • GITHUB • FRONTED |
+| 🚀 **Focus** | DSA • Web Development • Open Source |
+| 🎯 **Goal** | Software Engineer |
 
 </div>
 
 ---
 
-# 📊 GitHub Dashboard
+# ⚒️ Tech Stack
 
-<div align="center">
+<p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhishek00912&show_icons=true&theme=midnight-purple&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,html,css,js,react,nodejs,mysql,mongodb,git,github,vscode,linux&theme=dark"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek00912&layout=compact&theme=midnight-purple&hide_border=true"/>
+</p>
 
-</div>
+---
 
-<br>
+# 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=abhishek00912&theme=midnight-purple&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=abhishek00912&show_icons=true&theme=github_dark_dimmed&hide_border=true"/>
 
-</div>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek00912&layout=compact&theme=github_dark_dimmed&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=abhishek00912&theme=github-dark-blue&hide_border=true"/>
+
+</p>
 
 ---
 
 # 📈 Contribution Graph
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek00912&theme=react-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek00912&theme=github-compact&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
 # 🏆 GitHub Trophies
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=abhishek00912&theme=algolia&no-frame=true&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=abhishek00912&theme=onedark&no-frame=true&column=4"/>
 
-</div>
-
----
-
-# 🎯 Current Focus
-
-<div align="center">
-
-| Goal | Progress |
-|------|----------|
-| 🧩 Data Structures & Algorithms | ████████░░ |
-| 🌐 Full Stack Development | ██████░░░░ |
-| 🚀 Open Source | █████░░░░░ |
-| 💼 Placement Preparation | ████████░░ |
-
-</div>
+</p>
 
 ---
 
-# 🌍 Connect
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<picture>
+
+<source media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/abhishek00912/abhishek00912/output/github-contribution-grid-snake-dark.svg">
+
+<img src="https://raw.githubusercontent.com/abhishek00912/abhishek00912/output/github-contribution-grid-snake-dark.svg"/>
+
+</picture>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Tech | Status |
+|---------|------|--------|
+| 💰 Salary Prediction | Python, ML | ✅ |
+| 🌐 Portfolio Website | React | 🚧 |
+| 📝 DSA Solutions | C++ | 🚀 |
+
+---
 
 <div align="center">
+
+### 📫 Connect With Me
 
 <a href="YOUR_LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
@@ -116,25 +123,8 @@
 
 ---
 
-# 🐍 Contribution Snake
-
 <div align="center">
 
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhishek00912/abhishek00912/output/github-contribution-grid-snake-dark.svg">
-<img src="https://raw.githubusercontent.com/abhishek00912/abhishek00912/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-## 💭 Quote
-
-> **"The best developers aren't born—they're built one commit at a time."**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,50:6C63FF,100:00E5FF"/>
+> **"Write code that your future self will thank you for."**
 
 </div>

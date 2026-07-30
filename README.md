@@ -19,31 +19,47 @@
 ---
 
 # 👨‍💻 About Me
+# 👨‍💻 About Me
 
-```cpp
-class Abhishek {
-public:
-    string education = "B.Tech CSE (AI & ML)";
-    string location = "India";
+<div align="center">
 
-    vector<string> languages = {
-        "C++",
-        "C",
-        "Python",
-        "JavaScript"
-    };
+<table>
+<tr>
+<td align="center" width="250">
 
-    vector<string> learning = {
-        "React",
-        "Node.js",
-        "System Design"
-    };
+<img src="https://avatars.githubusercontent.com/abhishek00912?s=200" width="150"/>
 
-    string goal = "Software Engineer";
-};
-```
+### Abhishek Kumar Yadav
 
----
+💻 Software Developer
+
+🚀 Competitive Programmer
+
+🌱 Full Stack Learner
+
+</td>
+
+<td>
+
+### 🚀 Quick Info
+
+🎓 **B.Tech CSE (AI & ML)**
+
+💻 **Languages:** C++, C, Python, JavaScript
+
+🌱 **Learning:** React, Node.js, System Design
+
+🎯 **Goal:** Software Engineer
+
+📍 **Location:** India
+
+⭐ **Interests:** DSA • Web Development • AI/ML
+
+</td>
+</tr>
+</table>
+
+</div>
 
 # ⚡ Tech Stack
 
